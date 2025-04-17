@@ -30,6 +30,6 @@ Perfect for saving time when you're repeatedly filling out similar forms. 🎯
 ## 📥 **Installation**:
 
 1. **Clone the repository**:
-   ```bash  https://github.com/Gauravnehra09/Auto-form-filler.git   
-git clone https://github.com/Gauravnehra09/Auto-form-filler.git
+   ```bash
+   git clone https://github.com/Gauravnehra09/Auto-form-filler.git
  
